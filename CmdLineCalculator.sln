@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CmdLineCalculator", "CmdLineCalculator\CmdLineCalculator.csproj", "{FBC55199-3E7E-491B-94EB-D0EC4ADFAB25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CmdCalculator.Tests", "DemoLibrary.Tests\CmdCalculator.Tests.csproj", "{952480B1-FEAB-488C-AFD3-55A6976F9C0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBC55199-3E7E-491B-94EB-D0EC4ADFAB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC55199-3E7E-491B-94EB-D0EC4ADFAB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC55199-3E7E-491B-94EB-D0EC4ADFAB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC55199-3E7E-491B-94EB-D0EC4ADFAB25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{952480B1-FEAB-488C-AFD3-55A6976F9C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952480B1-FEAB-488C-AFD3-55A6976F9C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952480B1-FEAB-488C-AFD3-55A6976F9C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952480B1-FEAB-488C-AFD3-55A6976F9C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66E5187D-8765-4E50-8EAA-598A365AD3E5}
+	EndGlobalSection
+EndGlobal

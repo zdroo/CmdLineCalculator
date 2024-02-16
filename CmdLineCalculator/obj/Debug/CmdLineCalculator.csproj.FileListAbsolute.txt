@@ -1,0 +1,16 @@
+C:\Users\alexandru.zdru\source\repos\CmdLineCalculator\CmdLineCalculator\bin\Debug\CmdLineCalculator.exe.config
+C:\Users\alexandru.zdru\source\repos\CmdLineCalculator\CmdLineCalculator\bin\Debug\CmdLineCalculator.exe
+C:\Users\alexandru.zdru\source\repos\CmdLineCalculator\CmdLineCalculator\bin\Debug\CmdLineCalculator.pdb
+C:\Users\alexandru.zdru\source\repos\CmdLineCalculator\CmdLineCalculator\obj\Debug\CmdLineCalculator.csproj.AssemblyReference.cache
+C:\Users\alexandru.zdru\source\repos\CmdLineCalculator\CmdLineCalculator\obj\Debug\CmdLineCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexandru.zdru\source\repos\CmdLineCalculator\CmdLineCalculator\obj\Debug\CmdLineCalculator.csproj.CoreCompileInputs.cache
+C:\Users\alexandru.zdru\source\repos\CmdLineCalculator\CmdLineCalculator\obj\Debug\CmdLineCalculator.exe
+C:\Users\alexandru.zdru\source\repos\CmdLineCalculator\CmdLineCalculator\obj\Debug\CmdLineCalculator.pdb
+C:\Users\alexandru.zdru\Desktop\internship\CmdLineCalculator\CmdLineCalculator\bin\Debug\CmdLineCalculator.exe.config
+C:\Users\alexandru.zdru\Desktop\internship\CmdLineCalculator\CmdLineCalculator\bin\Debug\CmdLineCalculator.exe
+C:\Users\alexandru.zdru\Desktop\internship\CmdLineCalculator\CmdLineCalculator\bin\Debug\CmdLineCalculator.pdb
+C:\Users\alexandru.zdru\Desktop\internship\CmdLineCalculator\CmdLineCalculator\obj\Debug\CmdLineCalculator.csproj.AssemblyReference.cache
+C:\Users\alexandru.zdru\Desktop\internship\CmdLineCalculator\CmdLineCalculator\obj\Debug\CmdLineCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexandru.zdru\Desktop\internship\CmdLineCalculator\CmdLineCalculator\obj\Debug\CmdLineCalculator.csproj.CoreCompileInputs.cache
+C:\Users\alexandru.zdru\Desktop\internship\CmdLineCalculator\CmdLineCalculator\obj\Debug\CmdLineCalculator.exe
+C:\Users\alexandru.zdru\Desktop\internship\CmdLineCalculator\CmdLineCalculator\obj\Debug\CmdLineCalculator.pdb
